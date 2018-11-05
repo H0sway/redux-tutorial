@@ -1,6 +1,8 @@
 // Import react and reactDOM, kinda hard to make this work without them
 import React from 'react';
 import ReactDOM from 'react-dom';
+// import redux
+import index from "./js/index"
 
 // Import the App component
 import App from './App';
